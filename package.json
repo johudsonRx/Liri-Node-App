@@ -1,0 +1,26 @@
+{
+  "name": "liriapp",
+  "version": "1.0.0",
+  "description": "My tweets in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johudsonRx/Liri-Node-App.git"
+  },
+  "keywords": [
+    "blah"
+  ],
+  "author": "Josh Hudson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johudsonRx/Liri-Node-App/issues"
+  },
+  "homepage": "https://github.com/johudsonRx/Liri-Node-App#readme",
+  "dependencies": {
+    "node-movie": "^2.0.0",
+    "spotify-web-api-node": "^2.3.5"
+  }
+}
